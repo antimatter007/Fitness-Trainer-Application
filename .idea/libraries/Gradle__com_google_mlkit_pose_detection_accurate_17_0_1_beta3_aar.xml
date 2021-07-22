@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:pose-detection-accurate:17.0.1-beta3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec304bbf6c1124b3910669a508a3c40e/jetified-pose-detection-accurate-17.0.1-beta3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec304bbf6c1124b3910669a508a3c40e/jetified-pose-detection-accurate-17.0.1-beta3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ec304bbf6c1124b3910669a508a3c40e/jetified-pose-detection-accurate-17.0.1-beta3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/pose-detection-accurate/17.0.1-beta3/db92c48f35b514828186b1afe12a71d3748ceb4d/pose-detection-accurate-17.0.1-beta3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

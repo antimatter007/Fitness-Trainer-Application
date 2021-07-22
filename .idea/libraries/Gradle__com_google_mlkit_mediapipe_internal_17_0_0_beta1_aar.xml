@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:mediapipe-internal:17.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da58b8acd5ae14fe3b62c02c180ac619/jetified-mediapipe-internal-17.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da58b8acd5ae14fe3b62c02c180ac619/jetified-mediapipe-internal-17.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/da58b8acd5ae14fe3b62c02c180ac619/jetified-mediapipe-internal-17.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/mediapipe-internal/17.0.0-beta1/27037f967d955876b3e29db6de6a24458c5b6080/mediapipe-internal-17.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

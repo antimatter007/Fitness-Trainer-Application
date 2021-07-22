@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:key="@string/pref_screen">
+
+  <PreferenceCategory
+      android:enabled="true"
+      android:key="@string/pref_category_key_camera"
+      android:title="@string/pref_category_title_camera">
+
+    <ListPreference
+        android:key="@string/pref_key_rear_camera_preview_size"
+        android:persistent="true"
+        android:title="@string/pref_title_rear_camera_preview_size"/>
+
+    <ListPreference
+        android:key="@string/pref_key_front_camera_preview_size"
+        android:persistent="true"
+        android:title="@string/pref_title_front_camera_preview_size"/>
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/pref_key_camera_live_viewport"
+        android:persistent="true"
+        android:summary="@string/pref_summary_camera_live_viewport"
+        android:title="@string/pref_title_camera_live_viewport"/>
+
+  </PreferenceCategory>
+
+  <PreferenceCategory android:title="@string/pref_category_info">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/pref_key_info_hide"
+        android:persistent="true"
+        android:title="@string/pref_title_info_hide"/>
+  </PreferenceCategory>
+
+  <PreferenceCategory android:title="@string/pref_category_pose_detection">
+    <ListPreference
+        android:defaultValue="@string/pref_entry_values_pose_detector_performance_mode_fast"
+        android:entries="@array/pref_entries_values_pose_detector_performance_mode"
+        android:entryValues="@array/pref_entry_values_pose_detector_performance_mode"
+        android:key="@string/pref_key_live_preview_pose_detection_performance_mode"
+        android:persistent="true"
+        android:title="@string/pref_title_pose_detector_performance_mode"
+        android:summary="%s"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/pref_key_live_preview_pose_detector_show_in_frame_likelihood"
+        android:persistent="true"
+        android:title="@string/pref_title_pose_detector_show_in_frame_likelihood"/>
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/pref_key_pose_detector_visualize_z"
+        android:persistent="true"
+        android:title="@string/pref_title_pose_detector_visualize_z"/>
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="@string/pref_key_pose_detector_rescale_z"
+        android:persistent="true"
+        android:title="@string/pref_title_pose_detector_rescale_z"/>
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="@string/pref_key_pose_detector_run_classification"
+        android:persistent="true"
+        android:title="@string/pref_title_pose_detector_run_classification"
+        android:summary="@string/pref_summary_pose_detector_run_classification"/>
+  </PreferenceCategory>
+
+</PreferenceScreen>

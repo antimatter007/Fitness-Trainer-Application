@@ -1,0 +1,4 @@
+
+±SegmentationOptionsCalculator*7COMBINE_WITH_PREVIOUS_RATIO:combine_with_previous_ratio*9USE_OPTIMAL_OUTPUT_MASK_SIZE:use_optimal_output_mask_size2OPTIONS:segmentation_options
+½SegmentationCalculatorCpuINPUT:input_framesSEQUENCE_ID:seq_id"OUTPUT:output_frames*OPTIONS:segmentation_options:Dªù‘‡>
+<selfiesegmentation_mlkit-256x256-2021_01_19-v1215.f16.tfliteRinput_framesRseq_id

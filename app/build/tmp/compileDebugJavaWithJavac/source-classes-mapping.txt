@@ -1,0 +1,71 @@
+com/google/mlkit/vision/demo/preference/LivePreviewPreferenceFragment.java
+ com.google.mlkit.vision.demo.preference.LivePreviewPreferenceFragment
+com/google/mlkit/vision/demo/VisionImageProcessor.java
+ com.google.mlkit.vision.demo.VisionImageProcessor
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/PoseClassifier.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.PoseClassifier
+com/google/mlkit/vision/demo/java/posedetector/ScreenFaceDistance.java
+ com.google.mlkit.vision.demo.java.posedetector.ScreenFaceDistance
+com/google/mlkit/vision/demo/FrameMetadata.java
+ com.google.mlkit.vision.demo.FrameMetadata
+ com.google.mlkit.vision.demo.FrameMetadata$1
+ com.google.mlkit.vision.demo.FrameMetadata$Builder
+com/google/mlkit/vision/demo/CameraImageGraphic.java
+ com.google.mlkit.vision.demo.CameraImageGraphic
+com/google/mlkit/vision/demo/InferenceInfoGraphic.java
+ com.google.mlkit.vision.demo.InferenceInfoGraphic
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/PoseSampleReadCSV.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.PoseSampleReadCSV
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/ClassificationResult.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.ClassificationResult
+com/google/mlkit/vision/demo/java/posedetector/CheckShaking.java
+ com.google.mlkit.vision.demo.java.posedetector.CheckShaking
+com/google/mlkit/vision/demo/preference/SettingsActivity.java
+ com.google.mlkit.vision.demo.preference.SettingsActivity
+ com.google.mlkit.vision.demo.preference.SettingsActivity$LaunchSource
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/PoseEmbedding.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.PoseEmbedding
+com/google/mlkit/vision/demo/CameraSourcePreview.java
+ com.google.mlkit.vision.demo.CameraSourcePreview
+ com.google.mlkit.vision.demo.CameraSourcePreview$1
+ com.google.mlkit.vision.demo.CameraSourcePreview$SurfaceCallback
+com/google/mlkit/vision/demo/java/VisionProcessorBase.java
+ com.google.mlkit.vision.demo.java.VisionProcessorBase
+ com.google.mlkit.vision.demo.java.VisionProcessorBase$1
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/RepetitionCounter.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.RepetitionCounter
+com/google/mlkit/vision/demo/preference/PreferenceUtils.java
+ com.google.mlkit.vision.demo.preference.PreferenceUtils
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/EMASmoothing.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.EMASmoothing
+com/google/mlkit/vision/demo/BitmapUtils.java
+ com.google.mlkit.vision.demo.BitmapUtils
+com/google/mlkit/vision/demo/BuildConfig.java
+ com.google.mlkit.vision.demo.BuildConfig
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/Utils.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.Utils
+com/google/mlkit/vision/demo/java/posedetector/PoseGraphic.java
+ com.google.mlkit.vision.demo.java.posedetector.PoseGraphic
+com/google/mlkit/vision/demo/GraphicOverlay.java
+ com.google.mlkit.vision.demo.GraphicOverlay
+ com.google.mlkit.vision.demo.GraphicOverlay$Graphic
+com/google/mlkit/vision/demo/CameraSource.java
+ com.google.mlkit.vision.demo.CameraSource
+ com.google.mlkit.vision.demo.CameraSource$1
+ com.google.mlkit.vision.demo.CameraSource$CameraPreviewCallback
+ com.google.mlkit.vision.demo.CameraSource$FrameProcessingRunnable
+ com.google.mlkit.vision.demo.CameraSource$SizePair
+com/google/mlkit/vision/demo/ScopedExecutor.java
+ com.google.mlkit.vision.demo.ScopedExecutor
+com/google/mlkit/vision/demo/java/posedetector/classification_KNN_RepCounter/PoseClassifierProcessor.java
+ com.google.mlkit.vision.demo.java.posedetector.classification_KNN_RepCounter.PoseClassifierProcessor
+com/google/mlkit/vision/demo/java/ChooserActivity.java
+ com.google.mlkit.vision.demo.java.ChooserActivity
+ com.google.mlkit.vision.demo.java.ChooserActivity$1
+com/google/mlkit/vision/demo/java/posedetector/PoseDetectorProcessor.java
+ com.google.mlkit.vision.demo.java.posedetector.PoseDetectorProcessor
+ com.google.mlkit.vision.demo.java.posedetector.PoseDetectorProcessor$PoseWithClassification
+com/google/mlkit/vision/demo/java/LivePreviewActivity.java
+ com.google.mlkit.vision.demo.java.LivePreviewActivity
+com/google/mlkit/vision/demo/java/posedetector/PoseClassificationProcessor.java
+ com.google.mlkit.vision.demo.java.posedetector.PoseClassificationProcessor

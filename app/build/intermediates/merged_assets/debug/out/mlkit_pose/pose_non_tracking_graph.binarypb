@@ -1,0 +1,5 @@
+
+OPoseDetectionSubgraphinput_frames"(NORM_RECT:pose_rect_from_pose_detections
+êPoseLandmarkSubgraphIMAGE:input_frames(NORM_RECT:pose_rect_from_pose_detections"NORM_LANDMARKS:pose_landmarks"POSE_PRESENCE:pose_presence
+@ImagePropertiesCalculatorIMAGE:input_frames"SIZE:image_size
+§$MLKitValidatePoseLandmarksCalculatorNORM_LANDMARKS:pose_landmarksPOSE_PRESENCE:pose_presenceIMAGE_SIZE:image_size")VALIDATED_LANDMARKS:output_pose_landmarksRinput_frameszoutput_pose_landmarks
