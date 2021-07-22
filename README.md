@@ -1,1 +1,1 @@
-# Fitness_Traininer_App
+# Fitness_Trainer_App
